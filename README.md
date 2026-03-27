@@ -9,7 +9,7 @@ Built using real-world data from the **Kaiser Family Foundation (KFF) Employer H
 ---
 ## 🖼️ Dashboard Demo  
 
-[![Dashboard Demo](screenshots/dashboard_demo.gif)](https://public.tableau.com/app/profile/viputh.kounakor/viz/KFFStopLossBenefitsDashboard/Dashboard1)
+[![Dashboard Demo](Screenshot 2026-03-27 150745.png](https://public.tableau.com/app/profile/viputh.kounakor/viz/KFFStopLossBenefitsDashboard/Dashboard1)
 
 > 📌 Click to explore the full interactive dashboard on Tableau Public
 
