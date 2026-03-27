@@ -6,15 +6,12 @@ An interactive dashboard analyzing employer-sponsored health insurance trends, w
 
 Built using real-world data from the **Kaiser Family Foundation (KFF) Employer Health Benefits Survey (2019–2025)**.
 
----
-## 🖼️ Dashboard Demo  
+--- 
+## 🖼️ Dashboard Preview  
 
-[![Dashboard Demo](Screenshot 2026-03-27 150745.png](https://public.tableau.com/app/profile/viputh.kounakor/viz/KFFStopLossBenefitsDashboard/Dashboard1)
+[![Dashboard Preview](screenshots/dashboard_preview.png)](https://public.tableau.com/app/profile/viputh.kounakor/viz/KFFStopLossBenefitsDashboard/Dashboard1)
 
 > 📌 Click to explore the full interactive dashboard on Tableau Public
-
-## 🔗 Live Dashboard  
-👉 [View on Tableau Public](#) <!-- https://public.tableau.com/app/profile/viputh.kounakor/viz/KFFStopLossBenefitsDashboard/Dashboard1 -->
 
 ---
 
