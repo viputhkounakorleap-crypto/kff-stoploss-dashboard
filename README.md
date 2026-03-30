@@ -20,19 +20,19 @@ Built using real-world data from the **Kaiser Family Foundation (KFF) Employer H
 Healthcare costs are rising faster than wages, placing pressure on both employers and employees. Organizations are increasingly shifting toward **self-funded and stop-loss insurance models** to manage financial risk.
 
 This project answers key business questions:
-- 📈 How fast are premiums growing vs. wages and inflation?
-- 💸 Are employees paying a larger share of healthcare costs?
-- 🏥 How are employers adapting through plan funding strategies?
+- How fast are premiums growing vs. wages and inflation?
+- Are employees paying a larger share of healthcare costs?
+- How are employers adapting through plan funding strategies?
 
 ---
 
 ## 📊 Key Insights  
 
-- 📈 Family premiums increased **26%** (2019–2025), reaching **$26,993**  
-- 🏥 **67% of workers** are enrolled in self-funded plans (up from 61%)  
-- 📉 Stop-loss adoption among small firms grew from **28% → 37%**  
-- 💸 Small firm employees pay **$2,662 more annually** than large-firm employees  
-- 📊 **PPO plans** have the highest premiums; **HDHP/SO plans** the lowest  
+-  Family premiums increased **26%** (2019–2025), reaching **$26,993**  
+-  **67% of workers** are enrolled in self-funded plans (up from 61%)  
+-  Stop-loss adoption among small firms grew from **28% → 37%**  
+-  Small firm employees pay **$2,662 more annually** than large-firm employees  
+-  **PPO plans** have the highest premiums; **HDHP/SO plans** the lowest  
 
 > 💡 **Insight:** Employers are shifting risk through self-funding, while employees are absorbing higher costs.
 
@@ -40,11 +40,11 @@ This project answers key business questions:
 
 ## 🛠 Technical Skills Demonstrated  
 
-- 📂 **Data Cleaning & Transformation** (Excel)  
-- 📊 **Data Visualization** (Tableau Public)  
-- 📈 **Trend Analysis & KPI Development**  
-- 🧠 **Business Insight Generation**  
-- 🎯 **Dashboard Design for Stakeholders**
+-  **Data Cleaning & Transformation** (Excel)  
+-  **Data Visualization** (Tableau Public)  
+-  **Trend Analysis & KPI Development**  
+-  **Business Insight Generation**  
+-  **Dashboard Design for Stakeholders**
 
 ---
 
@@ -105,7 +105,7 @@ Click the Tableau Public link above.
 ## 👤 About Me  
 
 **Viputh Kounakor**  
-🎯 Aspiring Data Analyst / Business Analyst  
+Aspiring Data Analyst / Business Analyst  
 
 - 📊 Skilled in: SQL, Tableau, Excel  
 - 🏥 Experience in healthcare operations & analytics  
