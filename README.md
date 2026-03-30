@@ -10,7 +10,7 @@ Built using real-world data from the **Kaiser Family Foundation (KFF) Employer H
 ## 🖼️ Dashboard Preview  
 [![Dashboard Preview](screenshots%20dashboard_preview.png)](https://public.tableau.com/app/profile/viputh.kounakor/viz/KFFStopLossBenefitsDashboard/Dashboard1)
 ---
-
+Click on it to see more!
 ## 💼 Business Problem  
 
 Healthcare costs are rising faster than wages, placing pressure on both employers and employees. Organizations are increasingly shifting toward **self-funded and stop-loss insurance models** to manage financial risk.
